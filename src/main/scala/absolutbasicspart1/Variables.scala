@@ -1,4 +1,4 @@
-package absolutBasicsPart1
+package absolutbasicspart1
 
 object Variables extends App {
   val number: Int = 20
